@@ -5,12 +5,9 @@
  */
 package administrador_de_estacionamiento;
 
-/**
- *
- * @author CG
- */
-public class Registro extends javax.swing.JFrame {
 
+public class Registro extends javax.swing.JFrame {
+int a=0;
     /**
      * Creates new form Registro
      */
